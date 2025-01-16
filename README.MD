@@ -12,9 +12,8 @@
         alt="DIO - Code The Future">
 </a>
 <a href="https://dio.me/">
-<img 
-  src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">    
+
+
 </a>
 </p>
 
@@ -47,7 +46,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
 - Copilot Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
